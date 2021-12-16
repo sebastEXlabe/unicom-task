@@ -100,3 +100,4 @@ docker-compose up -d
   ```./serverless/local_deploy.sh```
 - 扫码或网页登录腾讯云
 - 完成部署
+satar
