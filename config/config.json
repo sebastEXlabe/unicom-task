@@ -1,10 +1,10 @@
 [
     {
-        "username": "手机号（必填）",
-        "password": "服务密码（必填）",
-        "appId": "appId（必填）",
-        "email": "接收邮箱（选填，不填请删除此行）",
-        "lotteryNum": "抽奖次数（选填，不填请删除此行）",
+        "username": "13216193731",
+        "password": "151791",
+        "appId": "1f7af72ad6912d306b5053abf90c7ebb811f932bcc29ae505faa4dc057d3f900c7781e364062f4a5b0bb0ff1f62f0fe1cc845ca5f4128466a84bf9ed0400e383",
+        "email": "sebasttt@163.com",
+        "lotteryNum": "30",
         "woEmail": "沃邮箱俱乐部登陆Url（选填，不填请删除此行）",
         "dingtalkWebhook": "钉钉通知 https://oapi.dingtalk.com/robot/send?access_token=xxxx（选填，不填请删除此行）",
         "Bark": {
